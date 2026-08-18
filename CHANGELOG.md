@@ -1,3 +1,4 @@
 - [2026-08-18] initial project setup and directory layout
 - [2026-08-18] setup gitignore and local environment configuration
 - [2026-08-18] scaffold base html document and meta viewport
+- [2026-08-18] configure google inter fonts and preconnect headers
