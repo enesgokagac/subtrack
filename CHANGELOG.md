@@ -7,3 +7,4 @@
 - [2026-08-21] build desktop sidebar skeleton and logo mark
 - [2026-08-21] add svg navigation icons for sidebar items
 - [2026-08-21] implement active tab underline and hover states
+- [2026-08-21] add primary CTA button to sidebar footer
