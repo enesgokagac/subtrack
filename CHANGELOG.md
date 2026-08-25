@@ -12,3 +12,4 @@
 - [2026-08-25] add dynamic page title resolver in topbar
 - [2026-08-25] add global search input placeholder in header
 - [2026-08-25] fix flex alignment issues on smaller screen topbar
+- [2026-08-25] define subscription schema and state store constants
