@@ -10,3 +10,4 @@
 - [2026-08-21] add primary CTA button to sidebar footer
 - [2026-08-25] implement sticky topbar header with glassmorphism blur
 - [2026-08-25] add dynamic page title resolver in topbar
+- [2026-08-25] add global search input placeholder in header
