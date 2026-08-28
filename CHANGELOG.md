@@ -16,3 +16,4 @@
 - [2026-08-28] implement localStorage read and write helpers
 - [2026-08-28] add unique id generator using timestamp hashes
 - [2026-08-28] write initial sample dataset for first time load
+- [2026-08-28] fix null check crash when localstorage is empty
