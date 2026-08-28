@@ -13,3 +13,4 @@
 - [2026-08-25] add global search input placeholder in header
 - [2026-08-25] fix flex alignment issues on smaller screen topbar
 - [2026-08-25] define subscription schema and state store constants
+- [2026-08-28] implement localStorage read and write helpers
