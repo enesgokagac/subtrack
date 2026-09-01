@@ -18,3 +18,4 @@
 - [2026-08-28] write initial sample dataset for first time load
 - [2026-08-28] fix null check crash when localstorage is empty
 - [2026-08-28] integrate exchangerate-api endpoint for TRY currency basket
+- [2026-09-01] add offline fallback exchange rates for network outages
