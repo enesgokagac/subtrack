@@ -21,3 +21,4 @@
 - [2026-09-01] add offline fallback exchange rates for network outages
 - [2026-09-01] implement cross-currency to TRY conversion utilities
 - [2026-09-01] render live USD/TRY rate indicator pill in topbar
+- [2026-09-01] handle api timeout gracefully with fallback indicator
