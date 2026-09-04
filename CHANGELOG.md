@@ -25,3 +25,4 @@
 - [2026-09-01] design responsive metrics summary grid
 - [2026-09-04] calculate monthly normalized cost per subscription
 - [2026-09-04] compute projected annual expenditure total
+- [2026-09-04] implement ghost subscription filtering and waste metric
