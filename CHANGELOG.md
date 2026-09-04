@@ -27,3 +27,4 @@
 - [2026-09-04] compute projected annual expenditure total
 - [2026-09-04] implement ghost subscription filtering and waste metric
 - [2026-09-04] add upcoming 7-day payment count badge
+- [2026-09-04] create subscription card grid layout
