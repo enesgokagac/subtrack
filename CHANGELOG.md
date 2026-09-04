@@ -24,3 +24,4 @@
 - [2026-09-01] handle api timeout gracefully with fallback indicator
 - [2026-09-01] design responsive metrics summary grid
 - [2026-09-04] calculate monthly normalized cost per subscription
+- [2026-09-04] compute projected annual expenditure total
