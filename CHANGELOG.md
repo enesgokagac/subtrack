@@ -23,3 +23,4 @@
 - [2026-09-01] render live USD/TRY rate indicator pill in topbar
 - [2026-09-01] handle api timeout gracefully with fallback indicator
 - [2026-09-01] design responsive metrics summary grid
+- [2026-09-04] calculate monthly normalized cost per subscription
