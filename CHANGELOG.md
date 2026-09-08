@@ -30,3 +30,4 @@
 - [2026-09-04] create subscription card grid layout
 - [2026-09-08] add custom color border highlight on card edges
 - [2026-09-08] map category icons to cards with subtle tinted backgrounds
+- [2026-09-08] render dual currency display (original + TRY equivalent)
