@@ -28,3 +28,4 @@
 - [2026-09-04] implement ghost subscription filtering and waste metric
 - [2026-09-04] add upcoming 7-day payment count badge
 - [2026-09-04] create subscription card grid layout
+- [2026-09-08] add custom color border highlight on card edges
