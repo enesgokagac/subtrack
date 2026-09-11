@@ -35,3 +35,4 @@
 - [2026-09-08] add card hover elevation and smooth translate transitions
 - [2026-09-11] style ghost subscription cards with subdued opacity
 - [2026-09-11] fix currency symbol positioning on foreign amounts
+- [2026-09-11] build accessible modal overlay and container
