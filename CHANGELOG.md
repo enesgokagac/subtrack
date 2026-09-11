@@ -33,3 +33,4 @@
 - [2026-09-08] render dual currency display (original + TRY equivalent)
 - [2026-09-08] style renewal date label and active status tags
 - [2026-09-08] add card hover elevation and smooth translate transitions
+- [2026-09-11] style ghost subscription cards with subdued opacity
