@@ -36,3 +36,4 @@
 - [2026-09-11] style ghost subscription cards with subdued opacity
 - [2026-09-11] fix currency symbol positioning on foreign amounts
 - [2026-09-11] build accessible modal overlay and container
+- [2026-09-11] add service name input with quick select chip tags
