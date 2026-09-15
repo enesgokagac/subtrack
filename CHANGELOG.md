@@ -39,3 +39,4 @@
 - [2026-09-11] add service name input with quick select chip tags
 - [2026-09-11] populate 25 popular subscriptions with icons and default tiers
 - [2026-09-15] implement instant autocomplete dropdown as user types
+- [2026-09-15] auto fill category and color when selecting known preset
