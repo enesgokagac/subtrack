@@ -42,3 +42,4 @@
 - [2026-09-15] auto fill category and color when selecting known preset
 - [2026-09-15] add billing cycle dropdown (monthly, yearly, weekly)
 - [2026-09-15] add datepicker for next renewal deadline
+- [2026-09-15] implement color swatch picker component
