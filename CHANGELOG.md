@@ -45,3 +45,4 @@
 - [2026-09-15] implement color swatch picker component
 - [2026-09-18] add payment method label input field
 - [2026-09-18] implement form input validation and error prompts
+- [2026-09-18] support editing existing subscriptions in same modal
