@@ -43,3 +43,4 @@
 - [2026-09-15] add billing cycle dropdown (monthly, yearly, weekly)
 - [2026-09-15] add datepicker for next renewal deadline
 - [2026-09-15] implement color swatch picker component
+- [2026-09-18] add payment method label input field
