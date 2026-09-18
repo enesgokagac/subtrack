@@ -47,3 +47,4 @@
 - [2026-09-18] implement form input validation and error prompts
 - [2026-09-18] support editing existing subscriptions in same modal
 - [2026-09-18] live preview TRY calculated value inside modal form
+- [2026-09-18] add escape key and backdrop click modal dismiss handlers
