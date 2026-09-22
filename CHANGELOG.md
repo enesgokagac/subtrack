@@ -50,3 +50,4 @@
 - [2026-09-18] add escape key and backdrop click modal dismiss handlers
 - [2026-09-22] fix datepicker default value setting to next calendar month
 - [2026-09-22] calculate days remaining until next renewal
+- [2026-09-22] categorize urgency: urgent (<=1 day), soon (<=3 days), normal
