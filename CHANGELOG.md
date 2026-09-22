@@ -49,3 +49,4 @@
 - [2026-09-18] live preview TRY calculated value inside modal form
 - [2026-09-18] add escape key and backdrop click modal dismiss handlers
 - [2026-09-22] fix datepicker default value setting to next calendar month
+- [2026-09-22] calculate days remaining until next renewal
