@@ -57,3 +57,4 @@
 - [2026-09-25] build ghost subscriptions management list on alerts tab
 - [2026-09-25] add one-click reactivate button for paused or ghost items
 - [2026-09-25] render annual wasted money calculation in ghost banner
+- [2026-09-25] design intelligent savings tips card based on unused services
