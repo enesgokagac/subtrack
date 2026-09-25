@@ -54,3 +54,4 @@
 - [2026-09-22] render upcoming billing list on dashboard with urgency colors
 - [2026-09-22] build dedicated alerts page with custom lead-time selector
 - [2026-09-25] add browser native notification permission request flow
+- [2026-09-25] build ghost subscriptions management list on alerts tab
