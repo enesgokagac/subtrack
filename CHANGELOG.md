@@ -53,3 +53,4 @@
 - [2026-09-22] categorize urgency: urgent (<=1 day), soon (<=3 days), normal
 - [2026-09-22] render upcoming billing list on dashboard with urgency colors
 - [2026-09-22] build dedicated alerts page with custom lead-time selector
+- [2026-09-25] add browser native notification permission request flow
