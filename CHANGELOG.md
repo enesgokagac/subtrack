@@ -59,3 +59,4 @@
 - [2026-09-25] render annual wasted money calculation in ghost banner
 - [2026-09-25] design intelligent savings tips card based on unused services
 - [2026-09-29] build toast notification queue and slide-in animations
+- [2026-09-29] support success, warning, error, and info toast types
