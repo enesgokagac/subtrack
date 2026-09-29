@@ -62,3 +62,4 @@
 - [2026-09-29] support success, warning, error, and info toast types
 - [2026-09-29] create deletion confirmation modal with danger actions
 - [2026-09-29] implement quick pause/play toggle on subscription cards
+- [2026-09-29] implement instant search filtering by name and category
