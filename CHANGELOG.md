@@ -67,3 +67,4 @@
 - [2026-10-02] add status filter dropdown (active, ghost, paused)
 - [2026-10-02] add sorting by price ascending, descending, renewal, and date added
 - [2026-10-02] add grid view and compact list view display modes
+- [2026-10-02] implement multi-select checkbox controls on cards
