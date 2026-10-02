@@ -65,3 +65,4 @@
 - [2026-09-29] implement instant search filtering by name and category
 - [2026-10-02] add category filter dropdown selector
 - [2026-10-02] add status filter dropdown (active, ghost, paused)
+- [2026-10-02] add sorting by price ascending, descending, renewal, and date added
