@@ -72,3 +72,4 @@
 - [2026-10-06] add bulk pause and bulk resume operations
 - [2026-10-06] add bulk delete with confirmation safeguard
 - [2026-10-06] implement zero-dependency canvas donut chart for categories
+- [2026-10-06] generate interactive category color legend with totals
