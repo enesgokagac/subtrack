@@ -69,3 +69,4 @@
 - [2026-10-02] add grid view and compact list view display modes
 - [2026-10-02] implement multi-select checkbox controls on cards
 - [2026-10-06] design floating bulk action toolbar when items are selected
+- [2026-10-06] add bulk pause and bulk resume operations
