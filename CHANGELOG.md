@@ -76,3 +76,4 @@
 - [2026-10-09] implement custom canvas bar chart for 6-month expense trend
 - [2026-10-09] handle canvas high-DPI retina display scaling correctly
 - [2026-10-09] render currency distribution pie chart
+- [2026-10-09] build top 5 most expensive subscriptions ranking bar
