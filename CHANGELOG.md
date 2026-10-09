@@ -74,3 +74,4 @@
 - [2026-10-06] implement zero-dependency canvas donut chart for categories
 - [2026-10-06] generate interactive category color legend with totals
 - [2026-10-09] implement custom canvas bar chart for 6-month expense trend
+- [2026-10-09] handle canvas high-DPI retina display scaling correctly
