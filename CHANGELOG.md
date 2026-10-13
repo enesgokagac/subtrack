@@ -81,3 +81,4 @@
 - [2026-10-13] detect overlapping services (e.g. 3+ streaming or ai tools)
 - [2026-10-13] calculate potential savings if switching monthly plans to yearly
 - [2026-10-13] construct monthly calendar layout grid
+- [2026-10-13] calculate day offsets and map renewal dates into day cells
