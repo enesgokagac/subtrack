@@ -78,3 +78,4 @@
 - [2026-10-09] render currency distribution pie chart
 - [2026-10-09] build top 5 most expensive subscriptions ranking bar
 - [2026-10-09] add monthly and yearly period toggle on all analytics
+- [2026-10-13] detect overlapping services (e.g. 3+ streaming or ai tools)
