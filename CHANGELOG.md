@@ -82,3 +82,4 @@
 - [2026-10-13] calculate potential savings if switching monthly plans to yearly
 - [2026-10-13] construct monthly calendar layout grid
 - [2026-10-13] calculate day offsets and map renewal dates into day cells
+- [2026-10-13] render colored subscription pills inside calendar day tiles
