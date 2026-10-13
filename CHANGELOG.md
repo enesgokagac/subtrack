@@ -79,3 +79,4 @@
 - [2026-10-09] build top 5 most expensive subscriptions ranking bar
 - [2026-10-09] add monthly and yearly period toggle on all analytics
 - [2026-10-13] detect overlapping services (e.g. 3+ streaming or ai tools)
+- [2026-10-13] calculate potential savings if switching monthly plans to yearly
