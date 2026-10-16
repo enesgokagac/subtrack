@@ -86,3 +86,4 @@
 - [2026-10-16] highlight current day with prominent border and accent
 - [2026-10-16] add month prev/next pagination controls and today shortcut
 - [2026-10-16] scaffold budget tab and overview summary hero card
+- [2026-10-16] add modal to define monthly spending limit per category
