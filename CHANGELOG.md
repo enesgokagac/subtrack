@@ -89,3 +89,4 @@
 - [2026-10-16] add modal to define monthly spending limit per category
 - [2026-10-16] calculate budget consumption percentage in real-time
 - [2026-10-20] render color-coded progress bars (green, warning amber, alert red)
+- [2026-10-20] add mini budget widget directly to home dashboard
