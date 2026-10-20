@@ -92,3 +92,4 @@
 - [2026-10-20] add mini budget widget directly to home dashboard
 - [2026-10-20] design live currency rates showcase grid on currency tab
 - [2026-10-20] build interactive bidirectional currency converter calculator
+- [2026-10-20] add quick swap currency button and live calculation listener
