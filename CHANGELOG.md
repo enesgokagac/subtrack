@@ -96,3 +96,4 @@
 - [2026-10-23] allow clicking rate card to instantly seed converter fields
 - [2026-10-23] build tabular summary report page with totals footer
 - [2026-10-23] implement RFC-compliant CSV download with UTF-8 BOM
+- [2026-10-23] implement full JSON backup export capability
