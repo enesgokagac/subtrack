@@ -98,3 +98,4 @@
 - [2026-10-23] implement RFC-compliant CSV download with UTF-8 BOM
 - [2026-10-23] implement full JSON backup export capability
 - [2026-10-23] add JSON file importer with validation and duplicate prevention
+- [2026-10-27] configure print media stylesheet for clean paper invoices
