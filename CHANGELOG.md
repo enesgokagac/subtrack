@@ -100,3 +100,4 @@
 - [2026-10-23] add JSON file importer with validation and duplicate prevention
 - [2026-10-27] configure print media stylesheet for clean paper invoices
 - [2026-10-27] implement complete light theme styling alongside dark theme
+- [2026-10-27] add theme toggle icon button in sidebar with preference storage
