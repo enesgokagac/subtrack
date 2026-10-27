@@ -101,3 +101,4 @@
 - [2026-10-27] configure print media stylesheet for clean paper invoices
 - [2026-10-27] implement complete light theme styling alongside dark theme
 - [2026-10-27] add theme toggle icon button in sidebar with preference storage
+- [2026-10-27] add keyboard shortcuts: Ctrl+N for new, Ctrl+F for search
