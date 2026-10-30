@@ -105,3 +105,4 @@
 - [2026-10-27] add 1-5 number keys for fast navigation between views
 - [2026-10-30] add global instant search overlay listener and keyboard navigation
 - [2026-10-30] tune mobile breakpoint rules and auto-collapsing sidebar drawer
+- [2026-10-30] add swipe and outside click dismiss for mobile sidebar
