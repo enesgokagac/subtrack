@@ -103,3 +103,4 @@
 - [2026-10-27] add theme toggle icon button in sidebar with preference storage
 - [2026-10-27] add keyboard shortcuts: Ctrl+N for new, Ctrl+F for search
 - [2026-10-27] add 1-5 number keys for fast navigation between views
+- [2026-10-30] add global instant search overlay listener and keyboard navigation
