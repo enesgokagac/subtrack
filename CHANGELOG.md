@@ -107,3 +107,4 @@
 - [2026-10-30] tune mobile breakpoint rules and auto-collapsing sidebar drawer
 - [2026-10-30] add swipe and outside click dismiss for mobile sidebar
 - [2026-10-30] design first-visit onboarding modal introducing key features
+- [2026-10-30] add time-aware greeting message on home dashboard
