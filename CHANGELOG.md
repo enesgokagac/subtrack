@@ -108,3 +108,4 @@
 - [2026-10-30] add swipe and outside click dismiss for mobile sidebar
 - [2026-10-30] design first-visit onboarding modal introducing key features
 - [2026-10-30] add time-aware greeting message on home dashboard
+- [2026-11-03] audit codebase, strip debug logs and format source files
