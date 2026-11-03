@@ -110,3 +110,4 @@
 - [2026-10-30] add time-aware greeting message on home dashboard
 - [2026-11-03] audit codebase, strip debug logs and format source files
 - [2026-11-03] optimize event listeners and DOM repaint cycles
+- [2026-11-03] refine responsive typography scaling across viewports
